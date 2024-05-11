@@ -1,6 +1,5 @@
 Police Violence and Agency Size
 ================
-Greg StoddardDylan J. FitzpatrickJohn Greer
 
 This repository contains code to recreate support analysis from our
 research paper “Predicting Police Misconduct”. In our paper, we study
